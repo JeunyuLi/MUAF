@@ -10,7 +10,7 @@ Early diagnosis of renal cancer can greatly improve the survival rate of patient
 
 ## Dataset
 
-![dataset](./figures/dataset.png)
+![dataset](./figures/dataset.jpg)
 
 **Coming soon...**
 
